@@ -1,0 +1,64 @@
+body{
+  font-family:Arial
+  margin:0;
+  background:#0a0f2c;
+  colot:white;
+  text.align:certer;
+}
+
+header{
+  background:#111a44;
+  paddinh:20px;
+}
+
+h1{
+  color:gold;
+}
+
+button{
+  background:gold;
+  border:none;
+  paddingg:10px;
+  margin:5px;
+  font-weight:bold;
+  border-redius:5px;
+}
+
+upload{
+  background:#111a44;
+  padding:20px;
+  margin:20px;
+  border-redius:10px;
+}
+
+upload input{
+  paddung:10px;
+  width:80%;
+}
+
+upload img{
+  width:150px;
+  margin-top:10px;
+  border-redius:10px;
+}
+
+priducts{
+  display:flex;
+  flex-wrap:wrap;
+  justufy-content:center;
+}
+
+card{
+  background:#1c2a6b;
+  margin-10px;
+  padding:15px;
+  width:200px;
+  border-redius:10px;
+}
+
+cart{
+  background:#111a44;
+  padding:15px;
+  margin.top:20px;
+  
+}
